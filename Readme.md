@@ -1,2 +1,1 @@
-Activate the environemnt
-Install flask
+-- Maintly for the Leetcode problems commonly seen in the interviews and also folders for QA for the interview preperations.
